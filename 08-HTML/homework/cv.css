@@ -1,0 +1,30 @@
+h1{
+    color:rgb(41, 37, 95);
+}
+
+img{
+    width: 150;
+    margin: 5px;
+    border: solid 1px black;
+}
+
+#principal{
+    border: solid 1px black;
+    width: 80% ;
+    margin: 0 auto;
+    padding: 5px;
+}
+fieldset{
+    margin-bottom: 5px;
+}
+legend{
+    border: solid 1px rgb(179, 182, 169);
+    padding: 5px;
+    font-weight: bold;
+    border-radius: 15px;
+    background: lightyellow;
+
+}
+body{
+    background-color: lightgray;
+}
